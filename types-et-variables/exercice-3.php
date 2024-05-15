@@ -4,10 +4,11 @@ $animal=[
     
     "species" => "Tigre",
     "name" => "Lola",
-    "age" => "5 ans"
+    "age" => 5
     
     ];
 
 print_r ($animal);
+echo "<br>";
 
 ?>
